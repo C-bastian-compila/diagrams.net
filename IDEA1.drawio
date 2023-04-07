@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T02:12:59.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8El8MuH4JUIk9zTtt7DN" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:16:48.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QJa6Zb235FeCZd82Az1a" version="21.1.2" type="github">
   <diagram name="Página-1" id="845WD8U1ApV6iTWOgfoi">
     <mxGraphModel dx="1218" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -48,6 +48,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="140" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-22" target="CYBAibLlUfrQaXq1cwKo-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-22" value="Pagar consulta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="289.17" width="160" height="60" as="geometry" />
@@ -104,8 +107,8 @@
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="349.1700000000001" as="sourcePoint" />
-            <mxPoint x="780" y="349.1700000000001" as="targetPoint" />
+            <mxPoint x="920" y="349.1700000000001" as="sourcePoint" />
+            <mxPoint x="920" y="349.1700000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-48" target="CYBAibLlUfrQaXq1cwKo-31">
@@ -133,19 +136,51 @@
           <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-68" value="accion del sitema" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-69" target="CYBAibLlUfrQaXq1cwKo-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-69" value="SISTEMA BONOS" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="760" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="920" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-70" target="CYBAibLlUfrQaXq1cwKo-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-81" value="No Cobertura" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBAibLlUfrQaXq1cwKo-80">
+          <mxGeometry x="-0.2123" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-70" target="CYBAibLlUfrQaXq1cwKo-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="319" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-84" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Tiene cobertura&lt;br&gt;&lt;/blockquote&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBAibLlUfrQaXq1cwKo-83">
+          <mxGeometry x="0.125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-70" value="Consultar prevision o bonificacion" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="400" width="120" height="80" as="geometry" />
+          <mxGeometry x="690" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-72" target="CYBAibLlUfrQaXq1cwKo-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-72" target="CYBAibLlUfrQaXq1cwKo-73">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-72" value="Generar bono" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="279.16999999999996" width="120" height="80" as="geometry" />
+          <mxGeometry x="900" y="279.16999999999996" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-73" value="Guardarlo en historial" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="320" width="120" height="80" as="geometry" />
+          <mxGeometry x="1070" y="279.17" width="120" height="80.83" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-79" value="Generar boleta de honorario" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="550" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
