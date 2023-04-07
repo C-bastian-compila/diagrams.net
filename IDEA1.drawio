@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T01:52:56.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="auNkkwafDkEodtYuXJET" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T02:07:13.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="cA9iw112vGRwGwyJov0U" version="21.1.2" type="github">
   <diagram name="Página-1" id="845WD8U1ApV6iTWOgfoi">
     <mxGraphModel dx="1218" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,25 +22,43 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-2" target="CYBAibLlUfrQaXq1cwKo-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-2" value="&lt;br&gt;&lt;br&gt;Consultar ficha del paciente por rut&lt;br&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="55" y="130" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CYBAibLlUfrQaXq1cwKo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-34" target="CYBAibLlUfrQaXq1cwKo-21">
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400.0000000000002" y="235" as="sourcePoint" />
+            <mxPoint x="680" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-60" value="Administrar citas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBAibLlUfrQaXq1cwKo-23">
+          <mxGeometry x="-0.0071" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-17" value="Crear una ficha mediante ingreso manual de datos (datos personales podrían autocompletarse)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="90" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="CYBAibLlUfrQaXq1cwKo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-21" target="CYBAibLlUfrQaXq1cwKo-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CYBAibLlUfrQaXq1cwKo-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="140" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CYBAibLlUfrQaXq1cwKo-21" value="Administrar citas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="110" width="160" height="60" as="geometry" />
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CYBAibLlUfrQaXq1cwKo-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="140" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="CYBAibLlUfrQaXq1cwKo-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="140" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="230" width="160" height="60" as="geometry" />
+          <mxGeometry x="520" y="289.17" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-24" target="CYBAibLlUfrQaXq1cwKo-2">
           <mxGeometry relative="1" as="geometry" />
@@ -71,8 +89,8 @@
         <mxCell id="CYBAibLlUfrQaXq1cwKo-31" value="Seleccionar tipo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CYBAibLlUfrQaXq1cwKo-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-32" value="px" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="289.17" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-34" target="CYBAibLlUfrQaXq1cwKo-22">
           <mxGeometry relative="1" as="geometry" />
@@ -81,13 +99,13 @@
           <mxGeometry x="275" y="190" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-37" value="Respuesta sistema" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="350" width="120" height="80" as="geometry" />
+          <mxGeometry x="70" y="480" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-38" value="Funciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-39" value="UML3 by sebastianLGM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="95" y="320" width="170" height="30" as="geometry" />
+          <mxGeometry x="115" y="450" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-40" target="CYBAibLlUfrQaXq1cwKo-28">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +121,18 @@
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-48" value="Agendar cita" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-53" value="Cancelar cita" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-54" target="CYBAibLlUfrQaXq1cwKo-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-54" value="Reagendar (recalendarizar)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-62" value="Pagar consulta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
