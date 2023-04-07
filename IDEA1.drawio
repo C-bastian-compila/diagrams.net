@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-07T00:45:45.441Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ti5xl4eT99eFJXm-2Tg8" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-07T00:48:02.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="XD0lasp5Je8iYCl499tZ" version="21.1.2" type="github">
   <diagram name="Página-1" id="845WD8U1ApV6iTWOgfoi">
     <mxGraphModel dx="696" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,14 +23,28 @@
         <mxCell id="CYBAibLlUfrQaXq1cwKo-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-2" target="CYBAibLlUfrQaXq1cwKo-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-20" value="Tiene" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CYBAibLlUfrQaXq1cwKo-19">
+          <mxGeometry x="0.1252" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-2" value="&lt;br&gt;&lt;br&gt;Consultar ficha del paciente por rut&lt;br&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="55" y="130" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CYBAibLlUfrQaXq1cwKo-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYBAibLlUfrQaXq1cwKo-16" target="CYBAibLlUfrQaXq1cwKo-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-16" value="Mostrar el perfil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CYBAibLlUfrQaXq1cwKo-17" value="Crear una ficha mediante ingreso manual de datos (datos personales podrían autocompletarse)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="90" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-21" value="Agendar/Anular/Reagendar hora" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYBAibLlUfrQaXq1cwKo-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="220" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
